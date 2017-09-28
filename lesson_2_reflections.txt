@@ -26,6 +26,8 @@ well organized
 
 How do the diagrams help you visualize the branch structure?
 
+Because is easier to see the reachability of each commit and each commit parent.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
