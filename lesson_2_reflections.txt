@@ -20,6 +20,10 @@ those files into a single commit, making sure all those changes are a logical ch
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+In cases when you want to experiment with a new version of the code, that is not the 
+main purpose. That way it helps you to keep your different version code sepparated and
+well organized
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
