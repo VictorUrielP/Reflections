@@ -31,5 +31,9 @@ Because is easier to see the reachability of each commit and each commit parent.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The checked out branch plus the branch in the merge command. Because each branch has its
+own commits each one with its parent commit and when your merge a branch with the master 
+branch the result is a new commit which parent are the two final commits of each branch
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
