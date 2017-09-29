@@ -37,3 +37,7 @@ branch the result is a new commit which parent are the two final commits of each
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros: It is simplier and faster because git checks all the lines automatically.
+Cons: Is probable that you find several conflicts in the merge, so you will have to 
+resolve them manually.
