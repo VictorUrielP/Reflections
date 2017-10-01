@@ -16,14 +16,15 @@ use one instead of another?
 
     A fork is a clone thet GitHub does from a public repository to your repository 
     (from its servers to its servers).
-    A clone is donde localy, from a remote or local repository. Clones operates on repositories.
+    A clone is done localy, from a remote or local repository. Clones operates on repositories.
     Branches are used when you want to add a new functionality without affecting the
     master branch. They refers to commits.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    That then you can know the differences between the last known state and the most
+    updated version in a repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
