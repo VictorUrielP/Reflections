@@ -2,7 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 local?
 
     When you want other people to collaborate in your project or when you want to 
-    have all your poject's information available even when don't have inmidiate access 
+    have all your poject's information available even when don't have immediate access 
     to your local working directory.
 
 Why might you want to always pull changes manually rather than having Git
@@ -38,4 +38,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you don't want to affect directly anytingh in the master branch but you want to
+    use that code to create a new version, or add some functionality.
