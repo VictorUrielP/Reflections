@@ -39,4 +39,6 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     When you don't want to affect directly anytingh in the master branch but you want to
-    use that code to create a new version, or add some functionality.
+    use that code to create a new version, or add some new functionality. You can use the
+    code in master while you test your new code in branches. You can make changes directly
+    on master when those are small changes.
